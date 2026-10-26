@@ -1,0 +1,21 @@
+id_produit,produit,categorie,prix_unitaire,stock
+P001,Smartphone,Electronique,60.14,257
+P002,Casque audio,Electronique,305.65,331
+P003,Chargeur solaire,Electronique,278.7,52
+P004,Batterie externe,Electronique,285.82,307
+P005,Boubou brode,Mode,58.96,215
+P006,T-shirt coton,Mode,72.24,280
+P007,Sac en cuir,Mode,77.08,397
+P008,Sandales,Mode,70.99,384
+P009,Bouilloire,Maison,110.95,225
+P010,Lampe LED,Maison,42.71,314
+P011,Set de casseroles,Maison,22.33,147
+P012,Ventilateur,Maison,116.55,230
+P013,Beurre de karite,Beaute,4.47,350
+P014,Savon noir,Beaute,24.1,160
+P015,Huile d'argan,Beaute,12.62,128
+P016,Creme hydratante,Beaute,18.25,182
+P017,Riz parfume 5kg,Alimentaire,31.18,381
+P018,Cafe moulu,Alimentaire,20.98,39
+P019,Miel de savane,Alimentaire,28.31,45
+P020,Epices melangees,Alimentaire,22.51,149
